@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+.product-image {
+    width: 200px;
+    height: 200px;
+}
+
+.product-cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
